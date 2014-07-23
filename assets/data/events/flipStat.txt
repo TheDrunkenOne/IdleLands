@@ -1,1 +1,4 @@
 %player had the ol' switcheroo happen to %item.
+%player stands infront of a shining mirror, posing with %hisher %item, as suddenly %hisher mirror image turns dark and steals %item, leaving behind a darkened, mirrored variant of it...
+Holy moly! Satan himself appears in front of %player and puts his finger on %himher. Then Satan vanishes in broad laughter, leaving %player with a bad feeling about the touched %item.
+%player startled the witch, and as punishment, the witch places a curse on %item: "Abra Kadabra! That which once was your friend, aiding you in combat and exploration, now shall be your fiend, bogging you down, making you weaker and more brittle!"
